@@ -1,0 +1,20 @@
+﻿<Properties StartupItem="Assembly-CSharp.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Unity.Instance.Unity Editor" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\ScoreManager.cs">
+    <Files>
+      <File FileName="Assets\MoveRacket.cs" Line="1" Column="1" />
+      <File FileName="Assets\MoveRacketMouse.cs" Line="1" Column="1" />
+      <File FileName="Assets\Ball.cs" Line="1" Column="1" />
+      <File FileName="Assets\MusicPlayer.cs" Line="1" Column="1" />
+      <File FileName="Assets\Quit.cs" Line="1" Column="1" />
+      <File FileName="Assets\LevelManager.cs" Line="1" Column="1" />
+      <File FileName="Assets\ScoreManager.cs" Line="42" Column="37" />
+      <File FileName="Assets\TotalScore.cs" Line="1" Column="1" />
+      <File FileName="Assets\FindWinner.cs" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
