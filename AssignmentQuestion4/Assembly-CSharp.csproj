@@ -9,7 +9,7 @@
     <ProductVersion>10.0.20506</ProductVersion>
     <SchemaVersion>2.0</SchemaVersion>
     <RootNamespace></RootNamespace>
-    <ProjectGuid>{6D5851C2-13AE-1A32-233B-D58B836A243C}</ProjectGuid>
+    <ProjectGuid>{519FB7ED-9242-B4EC-A8E7-0012DFB39005}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
     <AssemblyName>Assembly-CSharp</AssemblyName>
@@ -59,7 +59,7 @@
      <Compile Include="Assets\ScoreManager.cs" />
      <Compile Include="Assets\TotalScore.cs" />
  <Reference Include="Facebook.Unity.Settings">
- <HintPath>E:/Commit6/Library/FacebookSDK/Facebook.Unity.Settings.dll</HintPath>
+ <HintPath>E:/Commit7/Library/FacebookSDK/Facebook.Unity.Settings.dll</HintPath>
  </Reference>
  <Reference Include="UnityEngine.UI">
  <HintPath>C:/Program Files/Unity/Editor/Data/UnityExtensions/Unity/GUISystem/UnityEngine.UI.dll</HintPath>
