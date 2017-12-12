@@ -9,7 +9,7 @@
     <ProductVersion>10.0.20506</ProductVersion>
     <SchemaVersion>2.0</SchemaVersion>
     <RootNamespace></RootNamespace>
-    <ProjectGuid>{519FB7ED-9242-B4EC-A8E7-0012DFB39005}</ProjectGuid>
+    <ProjectGuid>{250491A2-A14D-6BFD-5A76-6314C1A09574}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
     <AssemblyName>Assembly-CSharp</AssemblyName>
@@ -52,14 +52,16 @@
   </ItemGroup>
   <ItemGroup>
      <Compile Include="Assets\Ball.cs" />
+     <Compile Include="Assets\FindWinner.cs" />
      <Compile Include="Assets\LevelManager.cs" />
      <Compile Include="Assets\MoveRacket.cs" />
      <Compile Include="Assets\MoveRacketMouse.cs" />
      <Compile Include="Assets\Quit.cs" />
      <Compile Include="Assets\ScoreManager.cs" />
+     <Compile Include="Assets\SpinObstacle.cs" />
      <Compile Include="Assets\TotalScore.cs" />
  <Reference Include="Facebook.Unity.Settings">
- <HintPath>E:/Commit7/Library/FacebookSDK/Facebook.Unity.Settings.dll</HintPath>
+ <HintPath>E:/AssignmentQuestion4/Library/FacebookSDK/Facebook.Unity.Settings.dll</HintPath>
  </Reference>
  <Reference Include="UnityEngine.UI">
  <HintPath>C:/Program Files/Unity/Editor/Data/UnityExtensions/Unity/GUISystem/UnityEngine.UI.dll</HintPath>
