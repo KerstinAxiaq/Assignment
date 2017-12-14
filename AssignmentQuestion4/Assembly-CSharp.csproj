@@ -56,12 +56,13 @@
      <Compile Include="Assets\LevelManager.cs" />
      <Compile Include="Assets\MoveRacket.cs" />
      <Compile Include="Assets\MoveRacketMouse.cs" />
+     <Compile Include="Assets\MusicPlayer.cs" />
      <Compile Include="Assets\Quit.cs" />
      <Compile Include="Assets\ScoreManager.cs" />
      <Compile Include="Assets\SpinObstacle.cs" />
      <Compile Include="Assets\TotalScore.cs" />
  <Reference Include="Facebook.Unity.Settings">
- <HintPath>E:/AssignmentQuestion4/Library/FacebookSDK/Facebook.Unity.Settings.dll</HintPath>
+ <HintPath>E:/Things/MCAST/ASSIGNMENT/AssignmentQuestion4/Library/FacebookSDK/Facebook.Unity.Settings.dll</HintPath>
  </Reference>
  <Reference Include="UnityEngine.UI">
  <HintPath>C:/Program Files/Unity/Editor/Data/UnityExtensions/Unity/GUISystem/UnityEngine.UI.dll</HintPath>
